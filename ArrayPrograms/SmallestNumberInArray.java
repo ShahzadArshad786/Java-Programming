@@ -2,7 +2,7 @@
          *  Write a JAVA Program that inpus n number of elements and find the smallest 
          *  Number from the Array. 
          */
-        package Array_Programs;
+        package ArrayPrograms;
         import java.util.Scanner;
 
         public class SmallestNumberInArray {

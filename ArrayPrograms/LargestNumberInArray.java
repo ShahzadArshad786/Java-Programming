@@ -3,7 +3,7 @@
          *  Number from the Array. 
          */
 
-        package Array_Programs;
+        package ArrayPrograms;
         import java.util.Scanner; 
         public class LargestNumberInArray {
             public static void main(String[] args) {

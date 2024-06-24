@@ -4,7 +4,7 @@
          *  largest number. 
          */
 
-        package Array_Programs;
+        package ArrayPrograms;
         import java.util.Scanner;
 
         public class LargetNumberInArray1 {

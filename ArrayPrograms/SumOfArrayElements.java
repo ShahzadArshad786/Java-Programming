@@ -3,7 +3,7 @@
         Sum of Array Elements. 
      */
     
-    package Array_Programs;
+    package ArrayPrograms;
     import java.util.*;
     public class SumOfArrayElements {
         public static void main(String[] args) {
@@ -20,7 +20,7 @@
             int length = arr.length; 
 
             System.out.println("\nEnter "+ size +" Array of Elements : \n");
-            
+
             for (int i = 0 ; i < length ; i++)
             {
                 System.out.print("Enter Element at Index Arr["+i+"] : ");

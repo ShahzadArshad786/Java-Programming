@@ -3,7 +3,7 @@
             N numbers of Elements. 
         */
 
-        package Array_Programs;
+        package ArrayPrograms;
         import java.util.Scanner;
         public class SumAndAverageOfArray {
 

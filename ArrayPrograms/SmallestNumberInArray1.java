@@ -3,7 +3,7 @@
          *  the Array to a function, the function find the smallest number and return the
          *  Smallest number. 
          */
-        package Array_Programs;
+        package ArrayPrograms;
         import java.util.Scanner ; 
         public class SmallestNumberInArray1 {
 
