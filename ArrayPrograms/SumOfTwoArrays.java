@@ -2,7 +2,7 @@
             Write a JAVA Program that inputs two Arrays with equal size and find the
             SUM of Both Arrays. 
          */
-        package Array_Programs;
+        package ArrayPrograms;
         import java.util.*;
 
         public class SumOfTwoArrays {
