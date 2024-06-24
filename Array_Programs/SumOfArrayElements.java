@@ -18,9 +18,9 @@
             int[] arr = new int [size]; 
             
             int length = arr.length; 
+
+            System.out.println("\nEnter "+ size +" Array of Elements : \n");
             
-            System.out.println();
-        
             for (int i = 0 ; i < length ; i++)
             {
                 System.out.print("Enter Element at Index Arr["+i+"] : ");
