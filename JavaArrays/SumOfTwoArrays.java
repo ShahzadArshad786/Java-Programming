@@ -60,7 +60,6 @@ public class SumOfTwoArrays {
         for(int i = 0 ; i < size2 ; i++)
         {
          System.out.print((arr1[i] + arr2[i]) + "  ");
-           
         }   
         sc.close();
     }
