@@ -1,3 +1,9 @@
+        /*
+         *  Write a JAVA Program that inputs N Number of elements in Array and Passes 
+         *  the Array to a function, the function find the largest number and return the
+         *  largest number. 
+         */
+
         package Array_Programs;
         import java.util.Scanner;
 
@@ -19,7 +25,6 @@
                 }
                 return max ; 
             }  
-
             public static void main(String[] args) {
                 
                 Scanner sc = new Scanner(System.in); 
@@ -37,7 +42,6 @@
                     System.out.print("Enter Element at Index Arr["+i+"] : ");
                     arr[i] = sc.nextInt(); 
                 }   
-                
                 max = LargestNumber(arr);
                 System.out.println("\nLargest Number is   : " + max);
                 sc.close();

@@ -1,11 +1,10 @@
         /*
-         *  Write a JAVA Program that inpus n number of elements and find the smallest 
+         *  Write a JAVA Program that inpus n number of elements and finds the Largest 
          *  Number from the Array. 
          */
 
         package Array_Programs;
         import java.util.Scanner; 
-
         public class LargestNumberInArray {
             public static void main(String[] args) {
              
@@ -19,7 +18,7 @@
                 int[] arr = new int [size]; 
                 
                 System.out.println("\nEnter "+ size +" Array of Elements : \n");
-                
+
                 for (int i = 0 ; i < arr.length ; i++)
                 {
                     System.out.print("Enter Element at Index Arr["+i+"] : ");
