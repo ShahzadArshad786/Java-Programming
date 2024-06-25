@@ -27,7 +27,7 @@
             }
         
             System.out.print("\nArray Elements  : " );
-            for(int i = 0 ; i < length ; i ++)
+            for(int i = 0 ; i < length ; i++)
             {
                 System.out.print(arr[i] + " ");
                 sum = sum + arr[i]; 
