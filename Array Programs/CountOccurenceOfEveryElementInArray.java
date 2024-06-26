@@ -2,7 +2,7 @@
         public class CountOccurenceOfEveryElementInArray {
             public static void main(String[] args) {
                         
-                Scanner sc = new Scanner(System.in); 
+               Scanner sc = new Scanner(System.in);
                             
                 int size , count , i , j ; 
                 
