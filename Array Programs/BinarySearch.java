@@ -34,7 +34,7 @@
                         // Calculate mid of array
                         mid = (start + end ) / 2 ; 
 
-                        if( item == arr[mid])
+                        if( arr[mid] == item)
                         {
                             loc = mid  ; 
                             break ; 
