@@ -27,7 +27,7 @@
             System.out.print("\n\nEnter Array Element You Want to Delete : ");
             item = sc.nextInt();
             
-                for(int i = 0 ; i < arr.length; i++)
+                for(int i = 0 ; i < arr.length ; i++)
                 {
                     if( item == arr[i] )
                     {
